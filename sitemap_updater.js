@@ -43,6 +43,12 @@ const CONFIG = {
 
   // 除外するページのブラックリスト（デコード済みURLで統一）
   BLACKLIST: [
+    'https://df.swiki.jp/index.php?FrontPage',
+    'https://df.swiki.jp/index.php?FormatRule',
+    'https://df.swiki.jp/index.php?Help',
+    'https://df.swiki.jp/index.php?InterWikiName',
+    'https://df.swiki.jp/index.php?MenuBar',
+    'https://df.swiki.jp/index.php?RecentDeleted',
     'https://df.swiki.jp/index.php?テンプレート置き場',
     'https://df.swiki.jp/index.php?銃器テンプレート',
     'https://df.swiki.jp/index.php?編集方針話し合い',
@@ -150,10 +156,13 @@ function parseSwikiHtml(html) {
     const amount = parseInt(match[2], 10);
     const unit   = match[3];
 
-    if (shouldExclude(rawUrl)) continue;
+    // 1. まずデコード＆スペース処理を行う
+    const processedUrl = decodeUrl(rawUrl);
 
-    const decodedUrl = decodeUrl(rawUrl);
-    const lastmod    = calcLastmod(amount, unit);
+    // 2. 処理済みのURLで除外判定を行う
+    if (shouldExclude(processedUrl)) continue;
+
+    const lastmod = calcLastmod(amount, unit);
 
     // 同一URLが複数回出現した場合は最初のもの（より新しい更新日）を優先
     if (!entries.has(decodedUrl)) {
@@ -184,9 +193,13 @@ function shouldExclude(rawUrl) {
  */
 function decodeUrl(url) {
   try {
-    return decodeURIComponent(url);
+    // 一度完全にデコードして表記を整える
+    let decoded = decodeURIComponent(url);
+    // 半角スペースのみを %20 に置換する(AS VALやMXC LTなどの半角スペース入りURL対策)
+    return decoded.replace(/ /g, '%20');
   } catch (e) {
-    return url;
+    // エラー時は、少なくともスペースだけは置換して返す
+    return url.replace(/ /g, '%20');
   }
 }
 
