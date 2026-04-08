@@ -199,7 +199,20 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
+  <!-- 乗り物系 -->
+  <url>
+    <loc>https://df.swiki.jp/index.php?乗り物一覧</loc>
+    <lastmod>2026-04-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
   <!-- 乗り物系(航空機系) -->
+  <url>
+    <loc>https://df.swiki.jp/index.php?F-45A戦闘機</loc>
+    <lastmod>2026-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
   <url>
     <loc>https://df.swiki.jp/index.php?突撃ヘリ</loc>
     <lastmod>2026-04-08</lastmod>
@@ -211,12 +224,6 @@
     <lastmod>2026-04-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://df.swiki.jp/index.php?F-45A戦闘機</loc>
-    <lastmod>2026-04-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
   </url>
   <!-- 乗り物系(地上車両系) -->
   <url>
@@ -285,6 +292,12 @@
     <lastmod>2026-03-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://df.swiki.jp/index.php?水上ボート</loc>
+    <lastmod>2026-03-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.1</priority>
   </url>
   <!-- マップ系 -->
   <url>
@@ -398,6 +411,13 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
+  <!-- 突撃兵 -->
+  <url>
+    <loc>https://df.swiki.jp/index.php?突撃兵</loc>
+    <lastmod>2026-03-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
   <url>
     <loc>https://df.swiki.jp/index.php?ダイアウルフ</loc>
     <lastmod>2026-03-13</lastmod>
@@ -422,6 +442,13 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
+  <!-- 支援兵 -->
+  <url>
+    <loc>https://df.swiki.jp/index.php?支援兵</loc>
+    <lastmod>2026-03-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
   <url>
     <loc>https://df.swiki.jp/index.php?スティンガー</loc>
     <lastmod>2026-03-29</lastmod>
@@ -435,10 +462,23 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://df.swiki.jp/index.php?蟲毒</loc>
+    <lastmod>2026-03-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.1</priority>
+  </url>
+  <url>
     <loc>https://df.swiki.jp/index.php?フリンダラ</loc>
     <lastmod>2026-04-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <!-- 工兵 -->
+  <url>
+    <loc>https://df.swiki.jp/index.php?工兵</loc>
+    <lastmod>2026-03-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
   </url>
   <url>
     <loc>https://df.swiki.jp/index.php?シェパード</loc>
@@ -464,6 +504,13 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
+  <!-- 偵察兵 -->
+  <url>
+    <loc>https://df.swiki.jp/index.php?偵察兵</loc>
+    <lastmod>2026-03-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
   <url>
     <loc>https://df.swiki.jp/index.php?ルナ</loc>
     <lastmod>2026-03-29</lastmod>
@@ -481,6 +528,37 @@
     <lastmod>2026-03-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://df.swiki.jp/index.php?モールス</loc>
+    <lastmod>2026-04-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <!-- アップデート -->
+  <url>
+    <loc>https://df.swiki.jp/index.php?アップデート</loc>
+    <lastmod>2026-03-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.1</priority>
+  </url>
+  <url>
+    <loc>https://df.swiki.jp/index.php?アップデート/2024</loc>
+    <lastmod>2026-03-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://df.swiki.jp/index.php?アップデート/2025</loc>
+    <lastmod>2026-04-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://df.swiki.jp/index.php?アップデート/2026</loc>
+    <lastmod>2026-04-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
   </url>
   <!-- その他 -->
   <url>
@@ -502,12 +580,6 @@
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>https://df.swiki.jp/index.php?アップデート</loc>
-    <lastmod>2026-03-25</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.1</priority>
-  </url>
-  <url>
     <loc>https://df.swiki.jp/index.php?確認されている不具合</loc>
     <lastmod>2025-02-15</lastmod>
     <changefreq>monthly</changefreq>
@@ -519,7 +591,31 @@
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
+  <url>
+    <loc>https://df.swiki.jp/index.php?課金アイテム</loc>
+    <lastmod>2026-04-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://df.swiki.jp/index.php?運営への問い合わせ方法</loc>
+    <lastmod>2026-04-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://df.swiki.jp/index.php?よくある質問</loc>
+    <lastmod>2026-04-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
   <!-- 武器系 -->
+  <url>
+    <loc>https://df.swiki.jp/index.php?ウェポン</loc>
+    <lastmod>2026-04-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
   <url>
     <loc>https://df.swiki.jp/index.php?メイン・サブウェポン</loc>
     <lastmod>2026-04-05</lastmod>
@@ -535,6 +631,25 @@
   <url>
     <loc>https://df.swiki.jp/index.php?射撃場</loc>
     <lastmod>2025-02-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://df.swiki.jp/index.php?アタッチメント</loc>
+    <lastmod>2026-04-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://df.swiki.jp/index.php?アーモリー</loc>
+    <lastmod>2026-04-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <!-- アサルトライフル系 -->
+  <url>
+    <loc>https://df.swiki.jp/index.php?ライフル</loc>
+    <lastmod>2026-04-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
@@ -641,6 +756,37 @@
     <priority>0.3</priority>
   </url>
   <url>
+    <loc>https://df.swiki.jp/index.php?K437</loc>
+    <lastmod>2026-03-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://df.swiki.jp/index.php?KC-17</loc>
+    <lastmod>2026-03-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://df.swiki.jp/index.php?KC17</loc>
+    <lastmod>2026-03-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://df.swiki.jp/index.php?MK47</loc>
+    <lastmod>2026-03-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <!-- SMG系 -->
+  <url>
+    <loc>https://df.swiki.jp/index.php?サブマシンガン</loc>
+    <lastmod>2026-04-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
     <loc>https://df.swiki.jp/index.php?UZI</loc>
     <lastmod>2025-02-19</lastmod>
     <changefreq>monthly</changefreq>
@@ -701,6 +847,19 @@
     <priority>0.3</priority>
   </url>
   <url>
+    <loc>https://df.swiki.jp/index.php?MK4</loc>
+    <lastmod>2026-03-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <!-- LMG系 -->
+  <url>
+    <loc>https://df.swiki.jp/index.php?LMG</loc>
+    <lastmod>2026-04-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
     <loc>https://df.swiki.jp/index.php?M249</loc>
     <lastmod>2025-02-19</lastmod>
     <changefreq>monthly</changefreq>
@@ -721,6 +880,13 @@
   <url>
     <loc>https://df.swiki.jp/index.php?PKM</loc>
     <lastmod>2026-03-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <!-- スナイパーライフル系 -->
+  <url>
+    <loc>https://df.swiki.jp/index.php?スナイパーライフル</loc>
+    <lastmod>2026-04-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
@@ -745,6 +911,13 @@
   <url>
     <loc>https://df.swiki.jp/index.php?AWM</loc>
     <lastmod>2025-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <!-- マークスマンライフル系 -->
+  <url>
+    <loc>https://df.swiki.jp/index.php?マークスマン</loc>
+    <lastmod>2026-04-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
@@ -797,6 +970,19 @@
     <priority>0.3</priority>
   </url>
   <url>
+    <loc>https://df.swiki.jp/index.php?レバーアクションライフル</loc>
+    <lastmod>2026-03-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <!-- ショットガン系 -->
+  <url>
+    <loc>https://df.swiki.jp/index.php?ショットガン</loc>
+    <lastmod>2026-04-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
     <loc>https://df.swiki.jp/index.php?M1014</loc>
     <lastmod>2025-02-19</lastmod>
     <changefreq>monthly</changefreq>
@@ -811,6 +997,31 @@
   <url>
     <loc>https://df.swiki.jp/index.php?M870</loc>
     <lastmod>2025-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://df.swiki.jp/index.php?725</loc>
+    <lastmod>2026-03-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://df.swiki.jp/index.php?725ダブルバレルショットガン</loc>
+    <lastmod>2026-03-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://df.swiki.jp/index.php?FS-12</loc>
+    <lastmod>2026-03-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <!-- ピストル系 -->
+  <url>
+    <loc>https://df.swiki.jp/index.php?サブウェポン</loc>
+    <lastmod>2026-04-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
@@ -856,7 +1067,34 @@
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
+  <!-- 特殊ウェポン系 -->
+  <url>
+    <loc>https://df.swiki.jp/index.php?特殊ウェポン</loc>
+    <lastmod>2026-04-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://df.swiki.jp/index.php?コンパウンドボウ</loc>
+    <lastmod>2026-03-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <!-- 近接武器(ナイフ) -->
+  <url>
+    <loc>https://df.swiki.jp/index.php?ナイフ</loc>
+    <lastmod>2026-04-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
   <!-- ガジェット系 -->
+  <url>
+    <loc>https://df.swiki.jp/index.php?ガジェット一覧</loc>
+    <lastmod>2026-04-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <!-- ガジェット系(突撃兵) -->
   <url>
     <loc>https://df.swiki.jp/index.php?回復注射</loc>
     <lastmod>2026-03-27</lastmod>
@@ -876,6 +1114,13 @@
     <priority>0.3</priority>
   </url>
   <url>
+    <loc>https://df.swiki.jp/index.php?火炎放射器</loc>
+    <lastmod>2026-03-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <!-- ガジェット系(支援兵) -->
+  <url>
     <loc>https://df.swiki.jp/index.php?建築ツール・リペアツール</loc>
     <lastmod>2026-04-02</lastmod>
     <changefreq>monthly</changefreq>
@@ -893,6 +1138,13 @@
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
+  <url>
+    <loc>https://df.swiki.jp/index.php?医療キット</loc>
+    <lastmod>2025-02-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <!-- ガジェット系(工兵) -->
   <url>
     <loc>https://df.swiki.jp/index.php?AT-4ランチャー</loc>
     <lastmod>2026-04-08</lastmod>
@@ -918,11 +1170,18 @@
     <priority>0.3</priority>
   </url>
   <url>
+    <loc>https://df.swiki.jp/index.php?ワイヤーガイドミサイルランチャー</loc>
+    <lastmod>2026-03-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
     <loc>https://df.swiki.jp/index.php?アンチタンクグレネード</loc>
     <lastmod>2026-03-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
+  <!-- ガジェット系(偵察兵) -->
   <url>
     <loc>https://df.swiki.jp/index.php?リスポーンビーコン</loc>
     <lastmod>2025-02-16</lastmod>
@@ -949,18 +1208,6 @@
     <priority>0.1</priority>
   </url>
   <url>
-    <loc>https://df.swiki.jp/index.php?Sandbox</loc>
-    <lastmod>2026-03-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.1</priority>
-  </url>
-  <url>
-    <loc>https://df.swiki.jp/index.php?materials</loc>
-    <lastmod>2026-03-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.1</priority>
-  </url>
-  <url>
     <loc>https://df.swiki.jp/index.php?ガイドライン</loc>
     <lastmod>2026-03-31</lastmod>
     <changefreq>monthly</changefreq>
@@ -972,145 +1219,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.1</priority>
   </url>
-  <!-- 未分類（自動追加） -->
-  <url>
-    <loc>https://df.swiki.jp/index.php?725</loc>
-    <lastmod>2026-03-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://df.swiki.jp/index.php?725ダブルバレルショットガン</loc>
-    <lastmod>2026-03-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://df.swiki.jp/index.php?FS-12</loc>
-    <lastmod>2026-03-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://df.swiki.jp/index.php?FormatRule</loc>
-    <lastmod>2025-02-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://df.swiki.jp/index.php?FrontPage</loc>
-    <lastmod>2026-03-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://df.swiki.jp/index.php?Help</loc>
-    <lastmod>2025-02-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://df.swiki.jp/index.php?InterWikiName</loc>
-    <lastmod>2025-02-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://df.swiki.jp/index.php?K437</loc>
-    <lastmod>2026-03-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://df.swiki.jp/index.php?KC-17</loc>
-    <lastmod>2026-03-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://df.swiki.jp/index.php?KC17</loc>
-    <lastmod>2026-03-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://df.swiki.jp/index.php?LMG</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://df.swiki.jp/index.php?MCX LT</loc>
-    <lastmod>2026-03-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://df.swiki.jp/index.php?MK4</loc>
-    <lastmod>2026-03-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://df.swiki.jp/index.php?MK47</loc>
-    <lastmod>2026-03-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://df.swiki.jp/index.php?MenuBar</loc>
-    <lastmod>2026-04-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://df.swiki.jp/index.php?RecentDeleted</loc>
-    <lastmod>2025-02-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://df.swiki.jp/index.php?よくある質問</loc>
-    <lastmod>2026-04-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://df.swiki.jp/index.php?アタッチメント</loc>
-    <lastmod>2026-04-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://df.swiki.jp/index.php?アップデート/2024</loc>
-    <lastmod>2026-03-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://df.swiki.jp/index.php?アップデート/2025</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://df.swiki.jp/index.php?アップデート/2026</loc>
-    <lastmod>2026-04-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://df.swiki.jp/index.php?アーモリー</loc>
-    <lastmod>2026-04-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://df.swiki.jp/index.php?ウェポン</loc>
-    <lastmod>2026-04-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
   <url>
     <loc>https://df.swiki.jp/index.php?オペレーターテンプレート</loc>
     <lastmod>2025-02-13</lastmod>
@@ -1120,150 +1228,6 @@
   <url>
     <loc>https://df.swiki.jp/index.php?ガジェットテンプレート</loc>
     <lastmod>2025-09-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://df.swiki.jp/index.php?ガジェット一覧</loc>
-    <lastmod>2026-04-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://df.swiki.jp/index.php?コンパウンドボウ</loc>
-    <lastmod>2026-03-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://df.swiki.jp/index.php?サブウェポン</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://df.swiki.jp/index.php?サブマシンガン</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://df.swiki.jp/index.php?ショットガン</loc>
-    <lastmod>2026-04-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://df.swiki.jp/index.php?スナイパーライフル</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://df.swiki.jp/index.php?ナイフ</loc>
-    <lastmod>2026-04-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://df.swiki.jp/index.php?マークスマン</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://df.swiki.jp/index.php?モールス</loc>
-    <lastmod>2026-04-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://df.swiki.jp/index.php?ライフル</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://df.swiki.jp/index.php?レバーアクションライフル</loc>
-    <lastmod>2026-03-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://df.swiki.jp/index.php?ワイヤーガイドミサイルランチャー</loc>
-    <lastmod>2026-03-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://df.swiki.jp/index.php?乗り物一覧</loc>
-    <lastmod>2026-04-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://df.swiki.jp/index.php?偵察兵</loc>
-    <lastmod>2026-03-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://df.swiki.jp/index.php?医療キット</loc>
-    <lastmod>2025-02-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://df.swiki.jp/index.php?工兵</loc>
-    <lastmod>2026-03-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://df.swiki.jp/index.php?支援兵</loc>
-    <lastmod>2026-03-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://df.swiki.jp/index.php?水上ボート</loc>
-    <lastmod>2026-03-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://df.swiki.jp/index.php?火炎放射器</loc>
-    <lastmod>2026-03-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://df.swiki.jp/index.php?特殊ウェポン</loc>
-    <lastmod>2026-04-04</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://df.swiki.jp/index.php?突撃兵</loc>
-    <lastmod>2026-03-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://df.swiki.jp/index.php?蟲毒</loc>
-    <lastmod>2026-03-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://df.swiki.jp/index.php?課金アイテム</loc>
-    <lastmod>2026-04-08</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://df.swiki.jp/index.php?運営への問い合わせ方法</loc>
-    <lastmod>2026-04-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
