@@ -7,7 +7,7 @@ Swiki（df.swiki.jp）のページ一覧を自動取得し、
 
 ## このシステムの概要
 
-1. GASのURL Fetchで、Swikiのページ一覧（https://df.swiki.jp/?cmd=list）をHTML形式で自動取得
+1. GASのURL Fetchで、Swikiのページ一覧（ https://df.swiki.jp/?cmd=list ）をHTML形式で自動取得
 2. URLと最終更新日を抽出
 3. （このGithub上にある）既存の`sitemap.xml`と自動でマージ
 4. GitHubに自動でPush（このリポジトリのmainブランチにpushします）
