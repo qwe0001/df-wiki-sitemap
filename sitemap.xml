@@ -29,7 +29,7 @@
   </url>
   <url>
     <loc>https://df.swiki.jp/index.php?アセンション/モノローグ</loc>
-    <lastmod>2026-04-07</lastmod>
+    <lastmod>2026-04-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -152,7 +152,7 @@
   </url>
   <url>
     <loc>https://df.swiki.jp/index.php?ウォーフェア/初心者ガイド</loc>
-    <lastmod>2026-04-07</lastmod>
+    <lastmod>2026-04-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -538,7 +538,7 @@
   <!-- アップデート -->
   <url>
     <loc>https://df.swiki.jp/index.php?アップデート</loc>
-    <lastmod>2026-03-25</lastmod>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.1</priority>
   </url>
@@ -563,7 +563,7 @@
   <!-- その他 -->
   <url>
     <loc>https://df.swiki.jp/index.php?操作方法</loc>
-    <lastmod>2026-04-07</lastmod>
+    <lastmod>2026-04-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
@@ -618,7 +618,7 @@
   </url>
   <url>
     <loc>https://df.swiki.jp/index.php?メイン・サブウェポン</loc>
-    <lastmod>2026-04-05</lastmod>
+    <lastmod>2026-04-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
@@ -1090,7 +1090,7 @@
   <!-- ガジェット系 -->
   <url>
     <loc>https://df.swiki.jp/index.php?ガジェット一覧</loc>
-    <lastmod>2026-04-07</lastmod>
+    <lastmod>2026-04-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
@@ -1228,6 +1228,13 @@
   <url>
     <loc>https://df.swiki.jp/index.php?ガジェットテンプレート</loc>
     <lastmod>2025-09-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <!-- 未分類（自動追加） -->
+  <url>
+    <loc>https://df.swiki.jp/index.php?MCX%20LT</loc>
+    <lastmod>2026-03-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
