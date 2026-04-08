@@ -165,8 +165,8 @@ function parseSwikiHtml(html) {
     const lastmod = calcLastmod(amount, unit);
 
     // 同一URLが複数回出現した場合は最初のもの（より新しい更新日）を優先
-    if (!entries.has(decodedUrl)) {
-      entries.set(decodedUrl, lastmod);
+    if (!entries.has(processedUrl)) {
+      entries.set(processedUrl, lastmod);
     }
   }
 
