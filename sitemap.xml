@@ -87,6 +87,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
+  <url>
+    <loc>https://df.swiki.jp/index.php?ウムス運河/モノローグ</loc>
+    <lastmod>2026-04-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
   <!-- 雑談掲示板 -->
   <url>
     <loc>https://df.swiki.jp/index.php?雑談掲示板</loc>
@@ -299,6 +305,31 @@
     <changefreq>monthly</changefreq>
     <priority>0.1</priority>
   </url>
+  <!-- 乗り物系(固定砲台) -->
+  <url>
+    <loc>https://df.swiki.jp/index.php?固定マシンガン</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://df.swiki.jp/index.php?対空砲</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://df.swiki.jp/index.php?沿岸砲</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://df.swiki.jp/index.php?バンカー</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
   <!-- マップ系 -->
   <url>
     <loc>https://df.swiki.jp/index.php?マップ一覧</loc>
@@ -369,6 +400,12 @@
   </url>
   <url>
     <loc>https://df.swiki.jp/index.php?アフターショック</loc>
+    <lastmod>2026-04-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://df.swiki.jp/index.php?ウムス運河</loc>
     <lastmod>2026-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -775,6 +812,12 @@
   </url>
   <url>
     <loc>https://df.swiki.jp/index.php?MK47</loc>
+    <lastmod>2026-03-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://df.swiki.jp/index.php?MCX%20LT</loc>
     <lastmod>2026-03-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
@@ -1231,53 +1274,9 @@
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
-  <!-- 未分類（自動追加） -->
-  <url>
-    <loc>https://df.swiki.jp/index.php?MCX%20LT</loc>
-    <lastmod>2026-03-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <!-- 未分類（自動追加） -->
-  <url>
-    <loc>https://df.swiki.jp/index.php?ウムス運河</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://df.swiki.jp/index.php?ウムス運河/モノローグ</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://df.swiki.jp/index.php?バンカー</loc>
-    <lastmod>2026-04-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
   <url>
     <loc>https://df.swiki.jp/index.php?マップテンプレート</loc>
     <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://df.swiki.jp/index.php?固定マシンガン</loc>
-    <lastmod>2026-04-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://df.swiki.jp/index.php?対空砲</loc>
-    <lastmod>2026-04-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://df.swiki.jp/index.php?沿岸砲</loc>
-    <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
