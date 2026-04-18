@@ -10,7 +10,7 @@
   <!-- 用語集 -->
   <url>
     <loc>https://df.swiki.jp/index.php?用語集</loc>
-    <lastmod>2026-04-07</lastmod>
+    <lastmod>2026-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -29,7 +29,7 @@
   </url>
   <url>
     <loc>https://df.swiki.jp/index.php?アセンション/モノローグ</loc>
-    <lastmod>2026-04-06</lastmod>
+    <lastmod>2026-04-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -90,7 +90,7 @@
   <!-- 雑談掲示板 -->
   <url>
     <loc>https://df.swiki.jp/index.php?雑談掲示板</loc>
-    <lastmod>2025-02-12</lastmod>
+    <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -128,13 +128,13 @@
   </url>
   <url>
     <loc>https://df.swiki.jp/index.php?ウォーフェア/チームデスマッチ（TDM）</loc>
-    <lastmod>2026-04-07</lastmod>
+    <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://df.swiki.jp/index.php?ウォーフェア/ビクトリー・ユナイト</loc>
-    <lastmod>2026-03-31</lastmod>
+    <lastmod>2026-04-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -146,25 +146,25 @@
   </url>
   <url>
     <loc>https://df.swiki.jp/index.php?ウォーフェア/イベントモード</loc>
-    <lastmod>2026-04-07</lastmod>
+    <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://df.swiki.jp/index.php?ウォーフェア/初心者ガイド</loc>
-    <lastmod>2026-04-08</lastmod>
+    <lastmod>2026-04-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://df.swiki.jp/index.php?ウォーフェア/乗り物ガイド</loc>
-    <lastmod>2026-04-02</lastmod>
+    <lastmod>2026-04-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://df.swiki.jp/index.php?ウォーフェア/ランクシステム</loc>
-    <lastmod>2026-04-07</lastmod>
+    <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -209,19 +209,19 @@
   <!-- 乗り物系(航空機系) -->
   <url>
     <loc>https://df.swiki.jp/index.php?F-45A戦闘機</loc>
-    <lastmod>2026-04-05</lastmod>
+    <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://df.swiki.jp/index.php?突撃ヘリ</loc>
-    <lastmod>2026-04-08</lastmod>
+    <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://df.swiki.jp/index.php?偵察ヘリコプター</loc>
-    <lastmod>2026-04-01</lastmod>
+    <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -234,7 +234,7 @@
   </url>
   <url>
     <loc>https://df.swiki.jp/index.php?GTQ-35ライトタンク</loc>
-    <lastmod>2026-04-02</lastmod>
+    <lastmod>2026-04-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -258,7 +258,7 @@
   </url>
   <url>
     <loc>https://df.swiki.jp/index.php?LAV-AA対空戦車</loc>
-    <lastmod>2026-03-24</lastmod>
+    <lastmod>2026-04-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -277,7 +277,7 @@
   <!-- 乗り物系(その他) -->
   <url>
     <loc>https://df.swiki.jp/index.php?ATV</loc>
-    <lastmod>2026-03-15</lastmod>
+    <lastmod>2026-04-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -309,74 +309,74 @@
   <!-- マップ系(ウォーフェアモード) -->
   <url>
     <loc>https://df.swiki.jp/index.php?焦土</loc>
-    <lastmod>2026-04-03</lastmod>
+    <lastmod>2026-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://df.swiki.jp/index.php?アセンション</loc>
-    <lastmod>2026-04-03</lastmod>
+    <lastmod>2026-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://df.swiki.jp/index.php?臨界点</loc>
-    <lastmod>2026-04-01</lastmod>
+    <lastmod>2026-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://df.swiki.jp/index.php?貫通</loc>
-    <lastmod>2026-03-29</lastmod>
+    <lastmod>2026-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://df.swiki.jp/index.php?塹壕戦</loc>
-    <lastmod>2026-03-29</lastmod>
+    <lastmod>2026-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://df.swiki.jp/index.php?脱線</loc>
-    <lastmod>2026-03-29</lastmod>
+    <lastmod>2026-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://df.swiki.jp/index.php?ブレード</loc>
-    <lastmod>2026-04-07</lastmod>
+    <lastmod>2026-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://df.swiki.jp/index.php?フォルト</loc>
-    <lastmod>2026-03-29</lastmod>
+    <lastmod>2026-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://df.swiki.jp/index.php?ストームアイ</loc>
-    <lastmod>2026-03-29</lastmod>
+    <lastmod>2026-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://df.swiki.jp/index.php?モニュメント</loc>
-    <lastmod>2026-04-01</lastmod>
+    <lastmod>2026-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://df.swiki.jp/index.php?アフターショック</loc>
-    <lastmod>2026-04-06</lastmod>
+    <lastmod>2026-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <!-- マップ系(オペレーションズモード) -->
   <url>
     <loc>https://df.swiki.jp/index.php?零号ダム</loc>
-    <lastmod>2026-04-03</lastmod>
+    <lastmod>2026-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -451,13 +451,13 @@
   </url>
   <url>
     <loc>https://df.swiki.jp/index.php?スティンガー</loc>
-    <lastmod>2026-03-29</lastmod>
+    <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://df.swiki.jp/index.php?蠱毒</loc>
-    <lastmod>2026-04-08</lastmod>
+    <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -500,7 +500,7 @@
   </url>
   <url>
     <loc>https://df.swiki.jp/index.php?ギズモ</loc>
-    <lastmod>2026-03-13</lastmod>
+    <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -525,7 +525,7 @@
   </url>
   <url>
     <loc>https://df.swiki.jp/index.php?ラプター</loc>
-    <lastmod>2026-03-13</lastmod>
+    <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -556,7 +556,7 @@
   </url>
   <url>
     <loc>https://df.swiki.jp/index.php?アップデート/2026</loc>
-    <lastmod>2026-04-03</lastmod>
+    <lastmod>2026-04-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
@@ -593,7 +593,7 @@
   </url>
   <url>
     <loc>https://df.swiki.jp/index.php?課金アイテム</loc>
-    <lastmod>2026-04-08</lastmod>
+    <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
@@ -673,7 +673,7 @@
   </url>
   <url>
     <loc>https://df.swiki.jp/index.php?AKS-74U</loc>
-    <lastmod>2025-08-05</lastmod>
+    <lastmod>2026-04-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
@@ -739,7 +739,7 @@
   </url>
   <url>
     <loc>https://df.swiki.jp/index.php?CAR-15</loc>
-    <lastmod>2026-01-09</lastmod>
+    <lastmod>2026-04-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
@@ -842,7 +842,7 @@
   </url>
   <url>
     <loc>https://df.swiki.jp/index.php?MP7</loc>
-    <lastmod>2025-04-04</lastmod>
+    <lastmod>2026-04-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
@@ -1083,7 +1083,7 @@
   <!-- 近接武器(ナイフ) -->
   <url>
     <loc>https://df.swiki.jp/index.php?ナイフ</loc>
-    <lastmod>2026-04-07</lastmod>
+    <lastmod>2026-04-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
@@ -1190,7 +1190,7 @@
   </url>
   <url>
     <loc>https://df.swiki.jp/index.php?レーザーインジケーター</loc>
-    <lastmod>2026-04-08</lastmod>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
@@ -1235,6 +1235,49 @@
   <url>
     <loc>https://df.swiki.jp/index.php?MCX%20LT</loc>
     <lastmod>2026-03-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <!-- 未分類（自動追加） -->
+  <url>
+    <loc>https://df.swiki.jp/index.php?ウムス運河</loc>
+    <lastmod>2026-04-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://df.swiki.jp/index.php?ウムス運河/モノローグ</loc>
+    <lastmod>2026-04-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://df.swiki.jp/index.php?バンカー</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://df.swiki.jp/index.php?マップテンプレート</loc>
+    <lastmod>2026-04-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://df.swiki.jp/index.php?固定マシンガン</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://df.swiki.jp/index.php?対空砲</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://df.swiki.jp/index.php?沿岸砲</loc>
+    <lastmod>2026-04-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
