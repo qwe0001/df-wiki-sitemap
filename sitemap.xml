@@ -3,8 +3,8 @@
   <!-- トップページ -->
   <url>
     <loc>https://df.swiki.jp/</loc>
-    <lastmod>2026-03-23</lastmod>
-    <changefreq>monthly</changefreq>
+    <lastmod>2026-04-23</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <!-- 用語集 -->
@@ -611,10 +611,10 @@
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://df.swiki.jp/index.php?PC版トラブル情報交換掲示板</loc>
-    <lastmod>2026-03-20</lastmod>
+    <loc>https://df.swiki.jp/index.php?動作要件</loc>
+    <lastmod>2026-04-19</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.1</priority>
+    <priority>0.3</priority>
   </url>
   <url>
     <loc>https://df.swiki.jp/index.php?確認されている不具合</loc>
@@ -822,6 +822,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
+  <url>
+    <loc>https://df.swiki.jp/index.php?AR57</loc>
+    <lastmod>2026-04-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
   <!-- SMG系 -->
   <url>
     <loc>https://df.swiki.jp/index.php?サブマシンガン</loc>
@@ -954,6 +960,12 @@
   <url>
     <loc>https://df.swiki.jp/index.php?AWM</loc>
     <lastmod>2026-04-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://df.swiki.jp/index.php?M82</loc>
+    <lastmod>2026-04-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
@@ -1277,25 +1289,6 @@
   <url>
     <loc>https://df.swiki.jp/index.php?マップテンプレート</loc>
     <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <!-- 未分類（自動追加） -->
-  <url>
-    <loc>https://df.swiki.jp/index.php?AR57</loc>
-    <lastmod>2026-04-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://df.swiki.jp/index.php?M82</loc>
-    <lastmod>2026-04-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://df.swiki.jp/index.php?動作要件</loc>
-    <lastmod>2026-04-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
